@@ -1,0 +1,15 @@
+*{
+    background-color: powderblue;
+    background-image: url("inzu.jpeg");
+    width: 40%;
+    left: 40%;
+}
+{
+    background-image: url("inzu.jpeg");
+    width: 40%;
+    left: 40%;
+}
+h1{
+    background-color: blue;
+    text-align: center;
+}
